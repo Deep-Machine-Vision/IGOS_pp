@@ -1,7 +1,7 @@
 # Integrated-Gradient Optimized Saliency Maps (iGOS++/I-GOS)
 PyTorch implementation for a family of salieny (attribution) map methods that optimize for an explanation mask using integrated gradient. 
 
->* Mingqi Jiang, Saeed Khorram, Li Fuxin. "Diverse Explanations for Object Detectors with Nesterov-Accelerated iGOS++", BMVC 2023.
+>* Mingqi Jiang, Saeed Khorram, Li Fuxin. ["Diverse Explanations for Object Detectors with Nesterov-Accelerated iGOS++"](https://papers.bmvc2023.org/0188.pdf), BMVC 2023.
 
 >* Saeed Khorram, Tyler Lawson, Li Fuxin. ["iGOS++: Integrated Gradient Optimized Saliency by Bilateral Perturbations"](https://arxiv.org/pdf/2012.15783.pdf), ACM-CHIL 2021.
 
